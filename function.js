@@ -6,3 +6,4 @@ function Users(name, age, cb) {
 Users("Nikhil", 20, (arg) => {
     console.log(arg);
 });
+console.log(Users);
